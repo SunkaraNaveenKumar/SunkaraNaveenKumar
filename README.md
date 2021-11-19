@@ -1,16 +1,12 @@
 ### Hi there 👋,I’m Naveen! 
 
-<!--
-**SunkaraNaveenKumar/SunkaraNaveenKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 About Me
+🕸️   Passionate about the Full Stack MERN Development and I yearn to simplify web for everyone.
+🔭   Currently working on Frontened Development (React.js,Redux,Material UI,HTML,Git,GitHub,Context API) .
+🌱   Learning more about technologies that go into building Full Stack Applications.
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🛠 Tech Stack
+💻   JavaScript | ES6 |ES5
+🌐   HTML | CSS | ReactJS | Material UI.
+🛢   Redux | Context API
+🔧   Git | GitHub
