@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">A passionate frontend developer</h3> 
 
 ### 👨🏻‍💻 About Me
 - 🕸️   Passionate about the <b>Full Stack MERN Development</b> and I yearn to simplify web for everyone.
